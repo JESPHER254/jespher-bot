@@ -83,6 +83,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/n0hlw1.jpg" alt="02" border="0" /></a>                     
+<a href="https://imgur.com/a/IvVwhYT"><img src="https://imgur.com/a/IvVwhYT" alt="02" border="0" /></a>                     
     <h1 align="center">CREDITS TO IBRAHIM ADAMS FOR THE BASE</h1>
   </a>
